@@ -37,6 +37,11 @@ Please reach out to the [dev mailing list](./community.html#mailing-lists) or op
 
 * **Talk:** [*"Kubernetes + Operator + PaaSTA = Flink@Yelp"*](https://www.meetup.com/Apache-Flink-London-Meetup/events/264123672/), Antonio Verardi
 
+#### September 24, 2019: [Bay Area Flink Meetup](https://www.meetup.com/Bay-Area-Apache-Flink-Meetup), San Francisco, USA
+
+* **Talk:** [*"Two years of Flink @ Yelp"*](https://www.meetup.com/Bay-Area-Apache-Flink-Meetup/events/262680261/), Enrico Canzonieri
+* **Talk:** [*"How BNP Paribas Fortis uses Flink for real-time fraud detection"*](https://www.meetup.com/Bay-Area-Apache-Flink-Meetup/events/262680261/), David Massart
+
 #### October 7-9, 2019: [Flink Forward EU](https://europe-2019.flink-forward.org/conference-program), Berlin, Germany
 
 * **Flink Forward is a conference dedicated to Apache Flink and Stream Processing. <br>
